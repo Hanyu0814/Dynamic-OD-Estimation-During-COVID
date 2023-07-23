@@ -1,4 +1,4 @@
-# Dynamic-OD-Estimation-During-COVID
+# Extended DODE During COVID
 This is an official implementation of: Extending Dynamic Origin-Destination Estimation to Understand Traffic Patterns During
 COVID-19
 
@@ -10,7 +10,7 @@ COVID-19
 ![Screen Shot 2023-07-23 at 1 42 27 PM](https://github.com/Hanyu0814/Dynamic-OD-Estimation-During-COVID/assets/42761678/1a9b80ad-d507-469f-894a-c525484fd343)
 
 ## Data
-Highway traffic data is publicly available on [Performance Measurement System (PeMS) Data Source](https://pems.dot.ca.gov/)
+Highway traffic data is publicly available on [Performance Measurement System (PeMS) Data Source](https://pems.dot.ca.gov/).
 Arterial road traffic data are subject to a non-disclosure policy.
 
 ## Acknowledgement
@@ -18,3 +18,4 @@ We appreciate the following github repo very much for the valuable code base and
 https://github.com/Lemma1/DPFE
 
 ## Citation
+If you find this repo useful in your research, please consider citing our paper.
